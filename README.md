@@ -9,35 +9,28 @@ A C++ project that takes a text file containing a DNA seq with a TATAA seq, tran
 ### gene.h
 Header file containing declarations of the functions used to modify the DNA sequence
 
-Language: C++
-
-Related File: gene.cpp
+- **Language:** C++
+- **Related File:** gene.cpp
 
 ---
 
 ### gene.cpp
 Source file containing definitions of the functions used to modify the DNA sequence
 
-Language: C++
-
-Libraries: iostream, fstream, string
-
-Input: N/A
-
-Output: N/A
+- **Language:** C++
+- **Libraries:** iostream, fstream, string
+- **Input:** N/A
+- **Output:** N/A
 
 ---
 
 ### main.cpp
 Main source file for running the program
 
-Language: C++
-
-Libraries: iostream, fstream, string
-
-Input: Text file of DNA sequence (A, C, T, and G) and must contain a TATAA sequence
-
-Output: Text file with RNA sequence, transcribed from the DNA sequence
+- **Language:** C++
+- **Libraries:** iostream, fstream, string
+- **Input:** Text file of DNA sequence (A, C, T, and G) and must contain a TATAA sequence
+- **Output:** Text file with RNA sequence, transcribed from the DNA sequence
 
 ---
 
